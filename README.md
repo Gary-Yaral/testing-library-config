@@ -8,7 +8,7 @@
 
 ## 2- Install testing-library and its presets
 ``` console
- npm install @testing-library/jest-dom @testing-library/react @testing-library/user-event
+ npm install -D @testing-library/jest-dom @testing-library/react @testing-library/user-event
  ```
  
 ## 3- Install babel presets
