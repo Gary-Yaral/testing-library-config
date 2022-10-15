@@ -17,7 +17,7 @@
  
  ```
  # How to configure all
- You must create this files:
+ You must create in the root directory that files:
  - babel.config.json
  - jest.setup.js
  - jest.config.js
