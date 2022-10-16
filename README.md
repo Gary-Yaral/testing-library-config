@@ -1,5 +1,5 @@
 
-# How to install and configured Testing Library to use it with Vitejs and Reactjs
+# How to install and configure Testing Library to use it with Vitejs and Reactjs
 
 ## 1- Install jest and jest-environment-jsdom and jsdom
 ``` console
